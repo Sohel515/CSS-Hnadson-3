@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+.wel{
+    width: 400px;
+    height: 100px;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: white;
+    color: darkred;
+    text-shadow: 1px 1px blue;
+    text-align: center;
+    margin: 5px 400px ;
+    box-shadow: 10px 10px 5px purple;
+}
+.t1{
+    padding-top: 10px;
+    line-height: 30px;
+    font-style: italic;
+    font-size: larger;
+
+}
+.container{
+    width: auto;
+    height: 700px;
+    border: 8px solid green;
+    position: relative;
+}
+.box1{
+    width: 300px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: white;
+    color: darkred;
+    font-size: larger;
+    text-shadow: 1px 1px blue;
+    box-shadow: 10px 10px 5px purple; 
+}
+.c1{
+    line-height: 40px;
+    font-style: italic;
+    text-align: center;
+    padding: 10px 53px;
+    font-size: larger;
+}
+.box2{
+    width: 300px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 5px;
+    text-shadow: 1px 1px blue;
+    box-shadow: 10px 10px 5px purple;
+    position: absolute;
+    top: 0;
+    right: 10px;  
+}
+.c2{
+    width: 300px ;
+    height: 200px;
+}
+.box3{
+    width: 300px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: white;
+    color: darkred;
+    font-size: larger;
+    text-shadow: 1px 1px blue;
+    box-shadow: 10px 10px 5px purple;
+    position: absolute;
+    top: 400px;  
+}
+.c3{
+    line-height: 30px;
+    font-style: italic;
+    padding: 10px;
+    font-size: larger;  
+}
+.box4{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 5px;
+    box-shadow: 10px 10px 5px purple;
+    position: absolute;
+    top: 400px;
+    right: 10px;  
+}
+.c4{
+color: darkred;
+text-shadow: 1px 1px blue;
+text-align: center;
+font-size: 32px;
+padding-top: 10px;
+}
+.rate{
+    margin: 10px;
+    text-align: center;
+    color: darkred;
+    text-shadow: 1px 1px blue;
+}
+.submit{
+    margin: 10px;
+    text-align: center;
+    color: darkred;
+    text-shadow: 1px 1px blue;
+    font-size: 22px;
+}
+.sub{
+    width: 100px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.container2{
+    width: 50%;
+    height: 600px;
+    border: 5px solid purple;
+    background-color: green;
+    position: relative;
+    margin: 10px 300px;
+}
+.title{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bolder;
+    padding: 10px;
+}
+
+
+.box21{
+    width: 40%;
+    height: 200px;
+    padding: 20px;
+    margin: 30px 10px 0px 10px;
+    background-color: blanchedalmond;
+    position: absolute;
+}
+.title21{
+text-align: center;
+color: black;
+padding: 10px;
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+}
+.con21{
+   text-align: center;
+   margin: 20px 0px;
+   display: flex;
+   flex-wrap: wrap;
+}
+.box22{
+    width: 40%;
+    height: 200px;
+    padding: 20px;
+    margin: 30px 10px 0px 10px;
+    background-color: blanchedalmond;
+    position: absolute;
+    right: 5px;
+    }
+    .title22{
+    text-align: center;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    }
+    .con21{
+    text-align: center;
+    margin: 20px 0px;
+    }
+    .box23{
+    width: 100%;
+    height: 200px;
+    background-color: blanchedalmond;
+    position: absolute;
+    bottom: 30px;
+    margin: 60px 10px 0px 10px;
+    }
+    .title23{
+    text-align: center;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    }
+    .con23{
+    text-align: center;
+    margin: 20px 0px;
+    
+    }
+    .box5{
+        width: 400px;
+        height: auto;
+        background-color: rgb(81, 185, 21);
+        border: 5px solid red;
+        border-radius: 10px;
+        margin: 5px;
+        box-shadow: 10px 10px 5px purple;
+        margin: 10px 500px;
+        position: fixed;
+        bottom: 100px;
+    }
+    .o1{
+        width: 150px;
+        display: inline-block;
+        margin: 0px 20px;
+        font-size: 18px;
+        font-style: italic;
+        text-align: center;
+    
+    }
+    .o2{
+        width: 150px;
+        display: inline-block;
+        margin: 0px 20px;
+        font-size: 16px;
+        font-style: italic;
+        text-align: center;
+    
+    }
